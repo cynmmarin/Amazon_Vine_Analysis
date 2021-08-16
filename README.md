@@ -22,5 +22,4 @@ What percentage of Vine reviews were 5 stars? What percentage of non-Vine review
 # Summary
 There is no sufficient evidence to conclude that there is a positivity bias for reviews in the Vine program given the numbers above. One additional analysis that could do with the dataset to support is to evaluate reviews different than those of 5 stars to get a better picture of the general publics view.
 
-![image](https://user-images.githubusercontent.com/80020326/129642788-2027c853-de5c-4454-8c1b-af6df65697a7.png)
 
